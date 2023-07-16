@@ -1,5 +1,5 @@
 # arduino_projects
-Most of these files are from a Mechatronics course, MEEN 667
+Most of these files are from a Mechatronics course, MEEN 667. I ran this software on a Arduino Mega, but it can also work on an Arduino Uno without any issues.
 
 The main project during this semester was creating a robot from scratch. Our team chose to design, build, and code a drone. The hardware for this project is listed below.
 * Readytosky 2212 920 kV motors (x4)
